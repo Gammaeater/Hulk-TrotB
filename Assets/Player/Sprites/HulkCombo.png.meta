@@ -1,0 +1,5717 @@
+fileFormatVersion: 2
+guid: 1f9822cd49b93cb4f9247e28bb2a9f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1756817105162182453
+    second: HulkCombo_0
+  - first:
+      213: -9189406574095623498
+    second: HulkCombo_1
+  - first:
+      213: 6515633132991033308
+    second: HulkCombo_2
+  - first:
+      213: -5832704842212659771
+    second: HulkCombo_3
+  - first:
+      213: -5507411527492653462
+    second: HulkCombo_4
+  - first:
+      213: 5327740347194116144
+    second: HulkCombo_5
+  - first:
+      213: -481391857727124801
+    second: HulkCombo_6
+  - first:
+      213: -2861750333064858004
+    second: HulkCombo_7
+  - first:
+      213: -5582088034674613810
+    second: HulkCombo_8
+  - first:
+      213: 5520005371319558088
+    second: HulkCombo_9
+  - first:
+      213: 143901780147613072
+    second: HulkCombo_10
+  - first:
+      213: 7762109466664340964
+    second: HulkCombo_11
+  - first:
+      213: -8059841780364941220
+    second: HulkCombo_12
+  - first:
+      213: -7408606726717039497
+    second: HulkCombo_13
+  - first:
+      213: -2686025878390637526
+    second: HulkCombo_14
+  - first:
+      213: -1843530684773217600
+    second: HulkCombo_15
+  - first:
+      213: -966675993810306887
+    second: HulkCombo_16
+  - first:
+      213: 6802521294870012405
+    second: HulkCombo_17
+  - first:
+      213: 2798517909720500854
+    second: HulkCombo_18
+  - first:
+      213: -8870424079062579638
+    second: HulkCombo_19
+  - first:
+      213: 6131327876491933175
+    second: HulkCombo_20
+  - first:
+      213: 5092601442170431935
+    second: HulkCombo_21
+  - first:
+      213: -2581396991893465881
+    second: HulkCombo_22
+  - first:
+      213: 4252608163373319393
+    second: HulkCombo_23
+  - first:
+      213: 9111754943207957906
+    second: HulkCombo_24
+  - first:
+      213: 2975141235417813161
+    second: HulkCombo_25
+  - first:
+      213: 714171268372576717
+    second: HulkCombo_26
+  - first:
+      213: -4638541123311329987
+    second: HulkCombo_27
+  - first:
+      213: 5070484835975219701
+    second: HulkCombo_28
+  - first:
+      213: -7591506002582031854
+    second: HulkCombo_29
+  - first:
+      213: -7388173151487376012
+    second: HulkCombo_30
+  - first:
+      213: -160843940418683900
+    second: HulkCombo_31
+  - first:
+      213: 9015385087688674710
+    second: HulkCombo_32
+  - first:
+      213: -7679559261235978315
+    second: HulkCombo_33
+  - first:
+      213: 7114569982645381891
+    second: HulkCombo_34
+  - first:
+      213: -377582299592918240
+    second: HulkCombo_35
+  - first:
+      213: 2418764710185604344
+    second: HulkCombo_36
+  - first:
+      213: 8778914263320309454
+    second: HulkCombo_37
+  - first:
+      213: -326280089206963273
+    second: HulkCombo_38
+  - first:
+      213: 371689378243151443
+    second: HulkCombo_39
+  - first:
+      213: 353854069197331173
+    second: HulkCombo_40
+  - first:
+      213: -2254310765467423535
+    second: HulkCombo_41
+  - first:
+      213: 7916532676759514669
+    second: HulkCombo_42
+  - first:
+      213: 6647555471782149546
+    second: HulkCombo_43
+  - first:
+      213: 4479933340575817453
+    second: HulkCombo_44
+  - first:
+      213: -7919158104408538576
+    second: HulkCombo_45
+  - first:
+      213: -2670814419653277810
+    second: HulkCombo_46
+  - first:
+      213: -3851076924662859873
+    second: HulkCombo_47
+  - first:
+      213: -1678514359403179462
+    second: HulkCombo_48
+  - first:
+      213: -6800169056118095440
+    second: HulkCombo_49
+  - first:
+      213: -1954628947034923329
+    second: HulkCombo_50
+  - first:
+      213: 3271729286679191425
+    second: HulkCombo_51
+  - first:
+      213: 1339768163423497800
+    second: HulkCombo_52
+  - first:
+      213: -6226013771877016428
+    second: HulkCombo_53
+  - first:
+      213: -5873840074854700043
+    second: HulkCombo_54
+  - first:
+      213: 4379841753317687884
+    second: HulkCombo_55
+  - first:
+      213: -7525272723761575384
+    second: HulkCombo_56
+  - first:
+      213: 6341134847139968771
+    second: HulkCombo_57
+  - first:
+      213: -8936929533608233923
+    second: HulkCombo_58
+  - first:
+      213: -6513055780917525052
+    second: HulkCombo_59
+  - first:
+      213: 7368649352880276259
+    second: HulkCombo_60
+  - first:
+      213: -4001659406179928138
+    second: HulkCombo_61
+  - first:
+      213: -2437435531831596867
+    second: HulkCombo_62
+  - first:
+      213: -3238095894431706020
+    second: HulkCombo_63
+  - first:
+      213: 6701041533802275502
+    second: HulkCombo_64
+  - first:
+      213: 8459458648120626524
+    second: HulkCombo_65
+  - first:
+      213: -7301206444257409651
+    second: HulkCombo_66
+  - first:
+      213: -5029884880329455500
+    second: HulkCombo_67
+  - first:
+      213: 525870024460127037
+    second: HulkCombo_68
+  - first:
+      213: -8975537461629055986
+    second: HulkCombo_69
+  - first:
+      213: -2820914251279822294
+    second: HulkCombo_70
+  - first:
+      213: 4699721601341140963
+    second: HulkCombo_71
+  - first:
+      213: 7524745621505161029
+    second: HulkCombo_72
+  - first:
+      213: 1707057045948998361
+    second: HulkCombo_73
+  - first:
+      213: -6456833146838507992
+    second: HulkCombo_74
+  - first:
+      213: 4858069177225516239
+    second: HulkCombo_75
+  - first:
+      213: -1301592949213870851
+    second: HulkCombo_76
+  - first:
+      213: 6408950348274871731
+    second: HulkCombo_77
+  - first:
+      213: 9148164712103474756
+    second: HulkCombo_78
+  - first:
+      213: -5688986162858085118
+    second: HulkCombo_79
+  - first:
+      213: -5399211220622935704
+    second: HulkCombo_80
+  - first:
+      213: -8759201541963034942
+    second: HulkCombo_81
+  - first:
+      213: -7030658282445363566
+    second: HulkCombo_82
+  - first:
+      213: 2482877968789371853
+    second: HulkCombo_83
+  - first:
+      213: 8632144248049113338
+    second: HulkCombo_84
+  - first:
+      213: 8455231738149234135
+    second: HulkCombo_85
+  - first:
+      213: -965431895536682407
+    second: HulkCombo_86
+  - first:
+      213: 8968117268078567857
+    second: HulkCombo_87
+  - first:
+      213: 2923125614620041985
+    second: HulkCombo_88
+  - first:
+      213: -1096342462131498386
+    second: HulkCombo_89
+  - first:
+      213: 748017146528447093
+    second: HulkCombo_90
+  - first:
+      213: 1611169959479368168
+    second: HulkCombo_91
+  - first:
+      213: -7763840774791282462
+    second: HulkCombo_92
+  - first:
+      213: -1251088462146210939
+    second: HulkCombo_93
+  - first:
+      213: -6901322239420245747
+    second: HulkCombo_94
+  - first:
+      213: 832446877405811203
+    second: HulkCombo_95
+  - first:
+      213: -7372042081845185443
+    second: HulkCombo_96
+  - first:
+      213: 7497394271300839728
+    second: HulkCombo_97
+  - first:
+      213: -8120437592829072829
+    second: HulkCombo_98
+  - first:
+      213: 642281359540255424
+    second: HulkCombo_99
+  - first:
+      213: 3447524230283086815
+    second: HulkCombo_100
+  - first:
+      213: 8531844154463960926
+    second: HulkCombo_101
+  - first:
+      213: 6251559439181815526
+    second: HulkCombo_102
+  - first:
+      213: 890991167768412432
+    second: HulkCombo_103
+  - first:
+      213: 5266044121184272582
+    second: HulkCombo_104
+  - first:
+      213: -3281332459869753809
+    second: HulkCombo_105
+  - first:
+      213: -5167333425539394685
+    second: HulkCombo_106
+  - first:
+      213: -4892432450571356157
+    second: HulkCombo_107
+  - first:
+      213: -5929923628694495647
+    second: HulkCombo_108
+  - first:
+      213: -5005276870140302644
+    second: HulkCombo_109
+  - first:
+      213: -1884013370259071360
+    second: HulkCombo_110
+  - first:
+      213: -1111798381624686382
+    second: HulkCombo_111
+  - first:
+      213: 1835917957346825537
+    second: HulkCombo_112
+  - first:
+      213: 4982775046756986905
+    second: HulkCombo_113
+  - first:
+      213: 4699539229101618426
+    second: HulkCombo_114
+  - first:
+      213: 5868249675912531640
+    second: HulkCombo_115
+  - first:
+      213: -6071465230462195110
+    second: HulkCombo_116
+  - first:
+      213: -3812599819889962298
+    second: HulkCombo_117
+  - first:
+      213: 2355296312615634747
+    second: HulkCombo_118
+  - first:
+      213: 7932968648299938526
+    second: HulkCombo_119
+  - first:
+      213: -8104045639509460963
+    second: HulkCombo_120
+  - first:
+      213: -2797158126287431538
+    second: HulkCombo_121
+  - first:
+      213: 8357491099005155092
+    second: HulkCombo_122
+  - first:
+      213: 2736011204403528285
+    second: HulkCombo_123
+  - first:
+      213: -7512664572716702884
+    second: HulkCombo_124
+  - first:
+      213: -4715266234185253326
+    second: HulkCombo_125
+  - first:
+      213: 175064050280538995
+    second: HulkCombo_126
+  - first:
+      213: -2524228055329352775
+    second: HulkCombo_127
+  - first:
+      213: 8822406461898526552
+    second: HulkCombo_128
+  - first:
+      213: 7102288853661068916
+    second: HulkCombo_129
+  - first:
+      213: -1867235286291112169
+    second: HulkCombo_130
+  - first:
+      213: 6184278351108960590
+    second: HulkCombo_131
+  - first:
+      213: 4636300293396887660
+    second: HulkCombo_132
+  - first:
+      213: 3894074148973065864
+    second: HulkCombo_133
+  - first:
+      213: -940844772019524608
+    second: HulkCombo_134
+  - first:
+      213: 3392740913571234736
+    second: HulkCombo_135
+  - first:
+      213: -6644155478590327911
+    second: HulkCombo_136
+  - first:
+      213: -543504636100964206
+    second: HulkCombo_137
+  - first:
+      213: 7534530960095182623
+    second: HulkCombo_138
+  - first:
+      213: -778468329390015569
+    second: HulkCombo_139
+  - first:
+      213: 5308523901663412186
+    second: HulkCombo_140
+  - first:
+      213: -6220908119562718477
+    second: HulkCombo_141
+  - first:
+      213: 8939360699538578425
+    second: HulkCombo_142
+  - first:
+      213: 1816465440079451807
+    second: HulkCombo_143
+  - first:
+      213: 4526047032662918821
+    second: HulkCombo_144
+  - first:
+      213: -1696437684748262518
+    second: HulkCombo_145
+  - first:
+      213: 2912172800319512020
+    second: HulkCombo_146
+  - first:
+      213: 6708398293172885897
+    second: HulkCombo_147
+  - first:
+      213: 9042657122900099248
+    second: HulkCombo_148
+  - first:
+      213: 1493710926716483062
+    second: HulkCombo_149
+  - first:
+      213: 6226230949221500682
+    second: HulkCombo_150
+  - first:
+      213: 4962136484527514627
+    second: HulkCombo_151
+  - first:
+      213: -537725854500994229
+    second: HulkCombo_152
+  - first:
+      213: -2780132233932233583
+    second: HulkCombo_153
+  - first:
+      213: -4796692719995060522
+    second: HulkCombo_154
+  - first:
+      213: -7273340122730383339
+    second: HulkCombo_155
+  - first:
+      213: 6721739341532306035
+    second: HulkCombo_156
+  - first:
+      213: 7843047257403223957
+    second: HulkCombo_157
+  - first:
+      213: 8039509503195333275
+    second: HulkCombo_158
+  - first:
+      213: -803261203545820688
+    second: HulkCombo_159
+  - first:
+      213: 3444422545438866171
+    second: HulkCombo_160
+  - first:
+      213: -8132947662665502879
+    second: HulkCombo_161
+  - first:
+      213: 8959675956972618716
+    second: HulkCombo_162
+  - first:
+      213: -7728266517453789974
+    second: HulkCombo_163
+  - first:
+      213: -5379518257639332658
+    second: HulkCombo_164
+  - first:
+      213: 8304256622655149445
+    second: HulkCombo_165
+  - first:
+      213: -7108018277088050358
+    second: HulkCombo_166
+  - first:
+      213: 1626145050907724538
+    second: HulkCombo_167
+  - first:
+      213: -5896535719629393816
+    second: HulkCombo_168
+  - first:
+      213: -6710028065634444095
+    second: HulkCombo_169
+  - first:
+      213: -4416071992416722971
+    second: HulkCombo_170
+  - first:
+      213: 3870525560205586963
+    second: HulkCombo_171
+  - first:
+      213: -7638445160316316037
+    second: HulkCombo_172
+  - first:
+      213: 1688572279510750511
+    second: HulkCombo_173
+  - first:
+      213: 5923919065080230739
+    second: HulkCombo_174
+  - first:
+      213: -2492219055871013998
+    second: HulkCombo_175
+  - first:
+      213: 4349795491975845016
+    second: HulkCombo_176
+  - first:
+      213: -5915483678550091034
+    second: HulkCombo_177
+  - first:
+      213: -2484059632660450468
+    second: HulkCombo_178
+  - first:
+      213: 6477148630899167523
+    second: HulkCombo_179
+  - first:
+      213: 677031355563465690
+    second: HulkCombo_180
+  - first:
+      213: 131218840516356003
+    second: HulkCombo_181
+  - first:
+      213: 7985164539999500205
+    second: HulkCombo_182
+  - first:
+      213: -8850543382388212374
+    second: HulkCombo_183
+  - first:
+      213: 4940497126828335101
+    second: HulkCombo_184
+  - first:
+      213: 3038334687271625772
+    second: HulkCombo_185
+  - first:
+      213: -5095252177435433855
+    second: HulkCombo_186
+  - first:
+      213: 8328953637835232574
+    second: HulkCombo_187
+  - first:
+      213: -5865427423318362839
+    second: HulkCombo_188
+  - first:
+      213: -8511815263171573165
+    second: HulkCombo_189
+  - first:
+      213: -5760709159238750348
+    second: HulkCombo_190
+  - first:
+      213: -1848287481855987335
+    second: HulkCombo_191
+  - first:
+      213: -7459765775479606241
+    second: HulkCombo_192
+  - first:
+      213: 4460312934841507940
+    second: HulkCombo_193
+  - first:
+      213: 5174226006209916219
+    second: HulkCombo_194
+  - first:
+      213: 2389362344514383217
+    second: HulkCombo_195
+  - first:
+      213: 1449845193242080040
+    second: HulkCombo_196
+  - first:
+      213: -4157920859908873552
+    second: HulkCombo_197
+  - first:
+      213: -2268881398299534752
+    second: HulkCombo_198
+  - first:
+      213: -8877922641769034645
+    second: HulkCombo_199
+  - first:
+      213: 4257120402605512959
+    second: HulkCombo_200
+  - first:
+      213: 6544920894187130217
+    second: HulkCombo_201
+  - first:
+      213: -5427615979159055682
+    second: HulkCombo_202
+  - first:
+      213: -4314237374556666624
+    second: HulkCombo_203
+  - first:
+      213: 3150522323351839260
+    second: HulkCombo_204
+  - first:
+      213: -2416362660871348967
+    second: HulkCombo_205
+  - first:
+      213: 7785906299580368440
+    second: HulkCombo_206
+  - first:
+      213: 6031512079673426301
+    second: HulkCombo_207
+  - first:
+      213: 415053938590186118
+    second: HulkCombo_208
+  - first:
+      213: -5781240053482339422
+    second: HulkCombo_209
+  - first:
+      213: -1317285905835451867
+    second: HulkCombo_210
+  - first:
+      213: -4718667176762324307
+    second: HulkCombo_211
+  - first:
+      213: -4997155330678506359
+    second: HulkCombo_212
+  - first:
+      213: -6838245435844838329
+    second: HulkCombo_213
+  - first:
+      213: -3347698187754700893
+    second: HulkCombo_214
+  - first:
+      213: 8760374542423266003
+    second: HulkCombo_215
+  - first:
+      213: 4393486678783710146
+    second: HulkCombo_216
+  - first:
+      213: 3758202552856252528
+    second: HulkCombo_217
+  - first:
+      213: -8894721164155064705
+    second: HulkCombo_218
+  - first:
+      213: -1343548202889302300
+    second: HulkCombo_219
+  - first:
+      213: 8585583555609242918
+    second: HulkCombo_220
+  - first:
+      213: 7895564661793704182
+    second: HulkCombo_221
+  - first:
+      213: -3339203922038832170
+    second: HulkCombo_222
+  - first:
+      213: 3320228503761414158
+    second: HulkCombo_223
+  - first:
+      213: -217317809036394048
+    second: HulkCombo_224
+  - first:
+      213: -822825426318747153
+    second: HulkCombo_225
+  - first:
+      213: -3388158688534012401
+    second: HulkCombo_226
+  - first:
+      213: -8001303472338909629
+    second: HulkCombo_227
+  - first:
+      213: 2003478772975775589
+    second: HulkCombo_228
+  - first:
+      213: 2221956138307815823
+    second: HulkCombo_229
+  - first:
+      213: 3401889632680069211
+    second: HulkCombo_230
+  - first:
+      213: 8564568850446048638
+    second: HulkCombo_231
+  - first:
+      213: 4030361007876105261
+    second: HulkCombo_232
+  - first:
+      213: -4233909276519506296
+    second: HulkCombo_233
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkCombo_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2101
+        width: 129
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b74026465a1214ab2b3e0df9a6b898
+      internalID: -1756817105162182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2100
+        width: 160
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255b94acd4a7134aa0ffb916f17bab9
+      internalID: -9189406574095623498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2100
+        width: 160
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ed49809d38e946bbb1d3dc852ecfd
+      internalID: 6515633132991033308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2089
+        width: 159
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31e54080bb82a48949929cb9c54cb0
+      internalID: -5832704842212659771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2095
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355634c77388e4e4090dff0b4f3d793e
+      internalID: -5507411527492653462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2092
+        width: 167
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02a52cfa79645499397ca179ee37e6
+      internalID: 5327740347194116144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_6
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bbef17e78098349a0f748f9c1522e9
+      internalID: -481391857727124801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2091
+        width: 113
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676f40668c7a5b4bbafd181d8b6e570
+      internalID: -2861750333064858004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_8
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2095
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68566551a7fb34eaded0f95e972cbb
+      internalID: -5582088034674613810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1880
+        width: 209
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420fbbaf025928641bae6a3df95c2d3e
+      internalID: 5520005371319558088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1880
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076733793b851b046a6cebbab1af68d8
+      internalID: 143901780147613072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1880
+        width: 186
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc37277515b02f4b8547379db937e31
+      internalID: 7762109466664340964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1918
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e722c9d47352b94293d7525b687178d
+      internalID: -8059841780364941220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263ed8cdc7fea04bae7d82f89e4997a
+      internalID: -7408606726717039497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_14
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1883
+        width: 186
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcb7eb8cb8fdf4b9fc2cb63c4fd77b
+      internalID: -2686025878390637526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_15
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1918
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c1631fc4111c49a4f74ec28b9c33f
+      internalID: -1843530684773217600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_16
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1111c2c7235a274eb5a6725854112a4
+      internalID: -966675993810306887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_17
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1883
+        width: 186
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf674ed212a45104cb491419dae3ec01
+      internalID: 6802521294870012405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_18
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1918
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887e19980ab8ad4492d29ece341a1d8
+      internalID: 2798517909720500854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_19
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc24e5bf7db9ac479fae0ba78ecd356
+      internalID: -8870424079062579638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1883
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9f652b2312f7419b7065d9ef466ab
+      internalID: 6131327876491933175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1913
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba34b483514224a8985a86b41d7835
+      internalID: 5092601442170431935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1883
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cf05f5689ad84c906deb10321bf78
+      internalID: -2581396991893465881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1913
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d256c2e47de994ab7b5b083339d9c7
+      internalID: 4252608163373319393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1883
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc33c3eca2bfb8469c839e82310d793
+      internalID: 9111754943207957906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_25
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1913
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c48213d9fb517d459d39a3ebb7a4f79
+      internalID: 2975141235417813161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1909
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0ea05e28abc44da5da9b49363b59a
+      internalID: 714171268372576717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1883
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a522bf5a5e310944a3b84edbbb85d2c
+      internalID: -4638541123311329987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_28
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1913
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df7600d2d4a5a4a8dc957585fc9bd4
+      internalID: 5070484835975219701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_29
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1909
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752581aebe944c84ca02774903823317
+      internalID: -7591506002582031854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1883
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a220d2e0c1d8a4daeb8c0e43b0bbe5
+      internalID: -7388173151487376012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_31
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1913
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105e3bd67de89745a71589b36cb8c60
+      internalID: -160843940418683900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_32
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1909
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bb7c7a67809940bdf37786d31fe8b
+      internalID: 9015385087688674710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_33
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1904
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70458785a2a9c434bb7fd36dd4dfa163
+      internalID: -7679559261235978315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_34
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1904
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a142c99a95184f9e5d1e951b6df43
+      internalID: 7114569982645381891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_35
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1904
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9b3210d158a545ad9539f01c92592
+      internalID: -377582299592918240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_36
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1886
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e416605e729ba499bce8903110525d
+      internalID: 2418764710185604344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_37
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1886
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f9edbb339d6d499456c07d59babb5
+      internalID: 8778914263320309454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_38
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1886
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b5fecea1752b43bec5012ca240d50
+      internalID: -326280089206963273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1674
+        width: 186
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6e1c2d8456de43a508062bf963dbb
+      internalID: 371689378243151443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1674
+        width: 129
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b77e47a38df04dbd9f5a9b2660c5c
+      internalID: 353854069197331173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1706
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f7cdf7435247f41a67cacf4c8b9d0e
+      internalID: -2254310765467423535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1671
+        width: 349
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d440c42edc831d6459d5147429dfd25b
+      internalID: 7916532676759514669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_43
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1671
+        width: 349
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e01d087d7f622146b7f8a4bd8cc6dc9
+      internalID: 6647555471782149546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_44
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1671
+        width: 332
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a695b15ee3aa43a349019f141d273
+      internalID: 4479933340575817453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_45
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1671
+        width: 331
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6065afb699afc4c8a0204bc5948a40
+      internalID: -7919158104408538576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1701
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4c222f0bb8134ba54272a1347228d
+      internalID: -2670814419653277810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1702
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d65786aae62e4799f6cdced6d6f2b
+      internalID: -3851076924662859873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1695
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de54aba3b2a96479000bc674c472c6
+      internalID: -1678514359403179462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1677
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca87f025dc466048afedde08a90a6f2
+      internalID: -6800169056118095440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1463
+        width: 332
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811274b55d38afd4187e76247a0450a4
+      internalID: -1954628947034923329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1463
+        width: 332
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8a90634a3ba2468775941a219888e
+      internalID: 3271729286679191425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_52
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1463
+        width: 332
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272bc39a0e864f4caddf669e3ed235f
+      internalID: 1339768163423497800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_53
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1463
+        width: 332
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba4aae81f2ca9442be74073ca43d970
+      internalID: -6226013771877016428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_54
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1463
+        width: 331
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ee3c5178228d419d90c7cd6476151
+      internalID: -5873840074854700043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1253
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f747bb9c47d544a709bf08dacce50
+      internalID: 4379841753317687884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_56
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1253
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff38b27d320f94fa05f29f13db4137
+      internalID: -7525272723761575384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1253
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537c97e76b6d8b46a971f3fb0590938
+      internalID: 6341134847139968771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_58
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1253
+        width: 332
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b52b1b838091546b8eaca3f4ce4990
+      internalID: -8936929533608233923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_59
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1253
+        width: 331
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddac59b99637aac46853416330383cd6
+      internalID: -6513055780917525052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1044
+        width: 332
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80fd6b5761c5c45a19dbc5716a7fe0
+      internalID: 7368649352880276259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_61
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1044
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710714a9ed33a0d488591bf85569f958
+      internalID: -4001659406179928138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_62
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1044
+        width: 332
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd657203a3b31814eacb7995824845cb
+      internalID: -2437435531831596867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_63
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1044
+        width: 332
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ee6bc030fb4d41850c48c16034786
+      internalID: -3238095894431706020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_64
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1044
+        width: 331
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017131024767f64c8c93d4b70a6e18f
+      internalID: 6701041533802275502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 835
+        width: 332
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b16a7163b28a468c26e0442ef58f9
+      internalID: 8459458648120626524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 835
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5c45edb9eb5544925e58acfc006a3
+      internalID: -7301206444257409651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 835
+        width: 332
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1602bc13d17fd96438b93e9e49b7a871
+      internalID: -5029884880329455500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_68
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 835
+        width: 332
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4c2028da41d94d9d287bd63b380a7
+      internalID: 525870024460127037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_69
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 846
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6765427af05e4a9071a9598ab00a7
+      internalID: -8975537461629055986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_70
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 835
+        width: 229
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a996763a6144a4fa015c49482bb0b1
+      internalID: -2820914251279822294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_71
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 842
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33b853239903e4281286aca503758f
+      internalID: 4699721601341140963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 636
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a43936340ed1c41961935351c04b97
+      internalID: 7524745621505161029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 626
+        width: 223
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a6175bff02ea4b9b7350c6f252a30
+      internalID: 1707057045948998361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_74
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 636
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487aa347391dad478ba73eab5f731f9
+      internalID: -6456833146838507992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 630
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e13c3a7260e54aa0e02397345c571
+      internalID: 4858069177225516239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_76
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 660
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8bc6472aecd464e904139bfb9c1057
+      internalID: -1301592949213870851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_77
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 626
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ea2fbd7df2734b88e2fe46aec2753
+      internalID: 6408950348274871731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_78
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 636
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdedc6e94d9d51540b825273b2114a6b
+      internalID: 9148164712103474756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_79
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 657
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090b3169c0e71a4087ffb875107d010
+      internalID: -5688986162858085118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_80
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 630
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84796c20c88a046be6c35d28914395
+      internalID: -5399211220622935704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_81
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 659
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d7a6543d07b4428e119d3ca11ffe0
+      internalID: -8759201541963034942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_82
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 626
+        width: 165
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc776b16c196841a55c85346366682
+      internalID: -7030658282445363566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_83
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 636
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f23e071c9dfd5448b71df0d6f6331b5
+      internalID: 2482877968789371853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_84
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 657
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff7f79b99c5d94cb26764a2fc3e883
+      internalID: 8632144248049113338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_85
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 630
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8333a49b42662a4c920c904e099488a
+      internalID: 8455231738149234135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_86
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 659
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368c890a8cbee740be22b902aa9182c
+      internalID: -965431895536682407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_87
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 626
+        width: 165
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531101a0883c2e5448c7e9c0e67bf1d7
+      internalID: 8968117268078567857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_88
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 636
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf99cddc8494e40bf11f2771a36ff0
+      internalID: 2923125614620041985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_89
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 656
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea02e0ca9f8e44599952160764f1ce
+      internalID: -1096342462131498386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_90
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 626
+        width: 157
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f367413e84e7342a786066394e9ee2
+      internalID: 748017146528447093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_91
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 639
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8152a1beb09a734baa58b0471acb830
+      internalID: 1611169959479368168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_92
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 639
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d0c505c3011049adf016bd7211600
+      internalID: -7763840774791282462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 649
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e85f9b1bf9984d9d5276a9b0cd91a
+      internalID: -1251088462146210939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_94
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 645
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf14dd6f13ba384490a1e0e26884012
+      internalID: -6901322239420245747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_95
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 640
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488e3d597f408642b137fd2b94ee03e
+      internalID: 832446877405811203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_96
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 644
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c12f87a239a9429a01fb85b68232a
+      internalID: -7372042081845185443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_97
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 635
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d9034ff95e794790eda5f43b36363
+      internalID: 7497394271300839728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_98
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 635
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a97e2e0e5e6840b2d34d30fc9cd9d
+      internalID: -8120437592829072829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_99
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 634
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ebcfabdc263d24099a671387a7b727
+      internalID: 642281359540255424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_100
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 638
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d075c634bf05074d85924916707edf9
+      internalID: 3447524230283086815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 631
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebde329359e9884e9ae017ce0055299
+      internalID: 8531844154463960926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_102
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 631
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c35f50376ef65489603dae663d178c
+      internalID: 6251559439181815526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_103
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 626
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf28da68d4d2b6498491547d02f27b7
+      internalID: 890991167768412432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_104
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 626
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc9b8f2ef52f640a7369aa8281eda2
+      internalID: 5266044121184272582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_105
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 630
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea113f19228bc2343857753a41d07791
+      internalID: -3281332459869753809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_106
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 626
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48b94099a4a354aad908a1db5efb48
+      internalID: -5167333425539394685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_107
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 626
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805f2a1182704a4888a60d9c6d5535c
+      internalID: -4892432450571356157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_108
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 632
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b471f1a8c482ae419dd00f454c28b4f
+      internalID: -5929923628694495647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_109
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 626
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc0e19edcf3dd4f95b4a8c23a057d2
+      internalID: -5005276870140302644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_110
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 626
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff584548fca87d418296ee2a824e1fc
+      internalID: -1884013370259071360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 428
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4bfe85d1120b4187c8e5d05bf1592
+      internalID: -1111798381624686382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_112
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 418
+        width: 154
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3baa0116cd3a842a31db201c2bfd6b
+      internalID: 1835917957346825537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_113
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 428
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1551b20aea2b54aae2320eb3c0cf46
+      internalID: 4982775046756986905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_114
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 450
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb86d7cea998aec43896795af93f78e0
+      internalID: 4699539229101618426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_115
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 446
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ed47629b0f1e4b9c32dd7afcebbc1
+      internalID: 5868249675912531640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_116
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 452
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421879e934d1af342bd6558e78605b1f
+      internalID: -6071465230462195110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_117
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 449
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3a05fc131d5842b62e43714812086
+      internalID: -3812599819889962298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_118
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 428
+        width: 119
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34272aaa9f749e34993fade7b6412b02
+      internalID: 2355296312615634747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_119
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 449
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ba68f656af914782d5ecde04f23b9
+      internalID: 7932968648299938526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_120
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 445
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07acb61a8941ada4b8aa2415e4188fdd
+      internalID: -8104045639509460963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_121
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 451
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87b87289cf50344bc384bb367a90c3
+      internalID: -2797158126287431538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_122
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eadc87a10a4774db947ecc595fc390
+      internalID: 8357491099005155092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_123
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 428
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a8321462860b4eaf631fc9a095ab8
+      internalID: 2736011204403528285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_124
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 449
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c355fa7df9f2904395e791de2d60c54
+      internalID: -7512664572716702884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_125
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 445
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2e976239697249a278914b9abbccd
+      internalID: -4715266234185253326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_126
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 451
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b605da44e4e2a4da2edb6183887a61
+      internalID: 175064050280538995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_127
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d84152504b39054cb9e02a1d744b3e9
+      internalID: -2524228055329352775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_128
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 428
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b0aa127125e34babb582ad48afaf8
+      internalID: 8822406461898526552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_129
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 445
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1486083b5a706348ac7d3343990f75b
+      internalID: 7102288853661068916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_130
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 447
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e76ad70ef81be549bb1c0fc4c6d9daf
+      internalID: -1867235286291112169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_131
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 445
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e4cc41975ce140a9f7a9de974f95a
+      internalID: 6184278351108960590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_132
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 447
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ed840d3fecc040bdefe34dfbd9767
+      internalID: 4636300293396887660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_133
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 422
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22282ecc90e92a34c8c0d1e46371d93f
+      internalID: 3894074148973065864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_134
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 424
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ecb91eeabb9c74ab9eebc10933762e
+      internalID: -940844772019524608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_135
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 443
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3692bf856e30c743ae261a29a8fd2ad
+      internalID: 3392740913571234736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_136
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 446
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badabfb9fbad33f4894226bddb27491c
+      internalID: -6644155478590327911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_137
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 423
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1276f8447901b40814af713d2b88c6
+      internalID: -543504636100964206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_138
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 447
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57e3d412eb44549a6188ddb7587aec
+      internalID: 7534530960095182623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_139
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 423
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee33ae0ff0dbff4197b6b17120025ef
+      internalID: -778468329390015569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_140
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 446
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f66539893a604cad1db47b8fcc188
+      internalID: 5308523901663412186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_141
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 447
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324765b64f888b4c82e64ae8fabf34d
+      internalID: -6220908119562718477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a57f34cd0c8247b5fc7d89e452d5e
+      internalID: 8939360699538578425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_143
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 430
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8174d9186531499fc629e2122e925
+      internalID: 1816465440079451807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_144
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 430
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9994fb5d1ca134791e707c480aefca
+      internalID: 4526047032662918821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_145
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 431
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2224ffb6b380409fa721cb8403431
+      internalID: -1696437684748262518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_146
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 427
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a56d87b7efbb4aba7af9c234e866e
+      internalID: 2912172800319512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_147
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 429
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a66efc062aede248a9d8317aad756c2
+      internalID: 6708398293172885897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_148
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 430
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c073ab7be089a4bb2ece7addd73e85
+      internalID: 9042657122900099248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_149
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 421
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd2ae30f67ed547938ffa1598ebbd7
+      internalID: 1493710926716483062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_150
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 425
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499583d49cca424fb2ad007d91f86d1
+      internalID: 6226230949221500682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_151
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 433
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a749ecb75401541befabf10c1ce7b2
+      internalID: 4962136484527514627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_152
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 431
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e8de90068f2d48b57f8449922b713
+      internalID: -537725854500994229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_153
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 421
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2fa96ebf14954e93fa9b3d40d0496
+      internalID: -2780132233932233583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_154
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 425
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbccff60dcbfcb94eb7d1e910e9d28f5
+      internalID: -4796692719995060522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_155
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 432
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af222784bf16d4da3bfe981cea55f9
+      internalID: -7273340122730383339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_156
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 431
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf6be89216c16418d3b71bddc971ad
+      internalID: 6721739341532306035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_157
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 432
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6b405a522aab4280ce599530d74f8
+      internalID: 7843047257403223957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_158
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 425
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c900da902a1a4db8954e83af54e28
+      internalID: 8039509503195333275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 428
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1846543d24a14fb30fc7651f1656a
+      internalID: -803261203545820688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_160
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 425
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82c7ff7c16ba8409bb85650a5a14c4
+      internalID: 3444422545438866171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_161
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 428
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e647336b260ed48be0b7e01193cf8b
+      internalID: -8132947662665502879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_162
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 418
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4830f587c86465498e6ab610a2fce80
+      internalID: 8959675956972618716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_163
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 418
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7186e203465ca439e132d466061445
+      internalID: -7728266517453789974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_164
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 418
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b0c50db28eae4286b5befca804497
+      internalID: -5379518257639332658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_165
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 418
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c2169f2975c9438c45a1de03ceee9
+      internalID: 8304256622655149445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_166
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 428
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f788847a66d74db1140ecd27683d8
+      internalID: -7108018277088050358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_167
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 422
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d3189dc6233e44a6332ff46738cb0
+      internalID: 1626145050907724538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_168
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 418
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d66b905045fb43ac8e66a34b438fc
+      internalID: -5896535719629393816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_169
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 420
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1436cf1e81d348b60888818f5d4db
+      internalID: -6710028065634444095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_170
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae813d686c88a43bcbd9b4b6fae29f
+      internalID: -4416071992416722971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_171
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 422
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d8697dfa13ae547b4b6bce906b997b
+      internalID: 3870525560205586963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_172
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 418
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8583907f7a0bb47b5d512920d47547
+      internalID: -7638445160316316037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_173
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 420
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a955b81293462e947a984bb6043460db
+      internalID: 1688572279510750511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_174
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739acb1fcf9b1d47996b3765f85ca64
+      internalID: 5923919065080230739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_175
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 429
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00351b5b999b6e4e8f247ec5f83c0b2
+      internalID: -2492219055871013998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_176
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe22219375d904799d9f3444071382
+      internalID: 4349795491975845016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_177
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 423
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc02ee6e6d47c4c970d0b8b1dbecda
+      internalID: -5915483678550091034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_178
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 418
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41c2e30b70cf640a34b4f1cc9a3606
+      internalID: -2484059632660450468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_179
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 424
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2174cd041fa047a3bc42cb4b79afb
+      internalID: 6477148630899167523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_180
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 422
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ce9bb406b0114f85cd3f53e0a3691
+      internalID: 677031355563465690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_181
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 418
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab913a0c6d4d7d4581c4be1f5cc844f
+      internalID: 131218840516356003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_182
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 419
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22f994247a6f34c9156a6dfbff7730
+      internalID: 7985164539999500205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_183
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 418
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e18ef218113a94fb47dcb847f7edca
+      internalID: -8850543382388212374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_184
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 419
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad36b60bd320e46859699c01293fc9
+      internalID: 4940497126828335101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_185
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 424
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89df4a2a258a42418972c0adbec5e75
+      internalID: 3038334687271625772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_186
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 418
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f915f491a6cbc49b7552e78428c590
+      internalID: -5095252177435433855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_187
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 418
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe88d693e3149c4ea22f76f1b41804d
+      internalID: 8328953637835232574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_188
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 418
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c33ebfef0ed94190397b53fc5403a
+      internalID: -5865427423318362839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_189
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 418
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36fbe17bf1b770438417a5f13e20d39
+      internalID: -8511815263171573165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_190
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 418
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403163042ec118409086614376dada9
+      internalID: -5760709159238750348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_191
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 418
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e95948c8280ce64780f65a0d1760a59
+      internalID: -1848287481855987335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_192
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 418
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1b40d0b0e832499fa3d75394c08bc
+      internalID: -7459765775479606241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_193
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 219
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde5d74fd94c8e4090783784975c520
+      internalID: 4460312934841507940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_194
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb7ae0a8ff0d54d9ebaded3ca469c3
+      internalID: 5174226006209916219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_195
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 238
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a1adca08d57745a09e887d3198893
+      internalID: 2389362344514383217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_196
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 219
+        width: 131
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57008c59e973094bbfa4100649d74d1
+      internalID: 1449845193242080040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_197
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 236
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd40ad25b714a488cc6c4395b2ac15
+      internalID: -4157920859908873552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_198
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a626692c6f58a14090d4e51769dad37
+      internalID: -2268881398299534752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_199
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 219
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e9faa7fea9dc4d8019d582c17a59d
+      internalID: -8877922641769034645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_200
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 236
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ac6a10a10a4544d9b05917ae22b8ba
+      internalID: 4257120402605512959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_201
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569e4a2ad08db442b982f656389aba1
+      internalID: 6544920894187130217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_202
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 219
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f71b583ebc9d14db972b85b8bce37d
+      internalID: -5427615979159055682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_203
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 237
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eddb476690faf48accd1b59be7e7f9
+      internalID: -4314237374556666624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_204
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 219
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b20af907706da489cdf3779642af4b
+      internalID: 3150522323351839260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_205
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 236
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f052feaceaec43987d0ab963104fa
+      internalID: -2416362660871348967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_206
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b514706a1138142a85e62c6d427bbd
+      internalID: 7785906299580368440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_207
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 222
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b888626650a43d143bb5a8d32f6d27a4
+      internalID: 6031512079673426301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_208
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 223
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de40a8969643c74dbb924c3b52b6401
+      internalID: 415053938590186118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_209
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 222
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ddf0f7c189d448875f7b8ffe6e926
+      internalID: -5781240053482339422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_210
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 221
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9bfdfbf2d689428d2b2dfe51d810f
+      internalID: -1317285905835451867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_211
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 222
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc307172a99a5054e973ec3c40be14ef
+      internalID: -4718667176762324307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_212
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 222
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ab229bfed8134582a15d5d5293d91
+      internalID: -4997155330678506359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_213
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 221
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc59f28a6434c54c8a8ce95b1c017a0
+      internalID: -6838245435844838329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_214
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 222
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6631264f659fd4d83a547f286b769f
+      internalID: -3347698187754700893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_215
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d6e5d780fd5446b95b0f461f0613f
+      internalID: 8760374542423266003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_216
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 223
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968b154392cf044b8c2584b3b03a271
+      internalID: 4393486678783710146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_217
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 218
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ba0038ec5f374c8f18ddc185db825
+      internalID: 3758202552856252528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_218
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 220
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98bf8d8c135d9e4482a0dec1298d81a
+      internalID: -8894721164155064705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_219
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 217
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624db76e9dbb08479d067a812c09842
+      internalID: -1343548202889302300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_220
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 219
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c473247038a2ba468f0d9099c354942
+      internalID: 8585583555609242918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_221
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 217
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9d400d488eb349bed74472bef8899
+      internalID: 7895564661793704182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_222
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 208
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e6c8513b8fa44a87d6f8ee606b91c
+      internalID: -3339203922038832170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_223
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 218
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf78209841e61346bc24455e1340164
+      internalID: 3320228503761414158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_224
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 216
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c245e9704559a4d815ad509ef1ffd2
+      internalID: -217317809036394048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_225
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 214
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891f45d73688764f949c2a6871f54e6
+      internalID: -822825426318747153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_226
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 211
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0279f288c4684a887975dcff6156d
+      internalID: -3388158688534012401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_227
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 208
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b96172e35ef77498bc7faab3f861d0
+      internalID: -8001303472338909629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_228
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 208
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c1141c13b96041b297a29d2ba02f9
+      internalID: 2003478772975775589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_229
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 208
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3683d7ec01413e4ea3598e897557d5a
+      internalID: 2221956138307815823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_230
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 10
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9995f21739c341b25d6d0da176b3b
+      internalID: 3401889632680069211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_231
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907c92068629074fa02e5645de18173
+      internalID: 8564568850446048638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_232
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551e56478d7ca142a2d19ba780b524e
+      internalID: 4030361007876105261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkCombo_233
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f4ab17ef6afa48aee96e46f9a965f
+      internalID: -4233909276519506296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f7cd6b70b74bee4e98e5fb551c47bc1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

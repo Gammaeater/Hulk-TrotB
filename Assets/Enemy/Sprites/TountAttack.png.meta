@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: d1e313a6aa2075c47928d71fa4f314a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1291193974107979249
+    second: TountAttack_0
+  - first:
+      213: 1848273778958821995
+    second: TountAttack_1
+  - first:
+      213: -3738975939974106934
+    second: TountAttack_2
+  - first:
+      213: 1232944543128516904
+    second: TountAttack_3
+  - first:
+      213: 397322116945797810
+    second: TountAttack_4
+  - first:
+      213: 4893090253989364947
+    second: TountAttack_5
+  - first:
+      213: -5781332373689862904
+    second: TountAttack_6
+  - first:
+      213: 8631153018745463306
+    second: TountAttack_7
+  - first:
+      213: -5258731198397773535
+    second: TountAttack_8
+  - first:
+      213: 1967013499923067730
+    second: TountAttack_9
+  - first:
+      213: 865800680675753006
+    second: TountAttack_10
+  - first:
+      213: -7694812110970329633
+    second: TountAttack_11
+  - first:
+      213: -7552758892337421107
+    second: TountAttack_12
+  - first:
+      213: -8999200116489180232
+    second: TountAttack_13
+  - first:
+      213: 389228741917483085
+    second: TountAttack_14
+  - first:
+      213: -6135145201131670473
+    second: TountAttack_15
+  - first:
+      213: -4306870603382318931
+    second: TountAttack_16
+  - first:
+      213: -4477436461981238888
+    second: TountAttack_17
+  - first:
+      213: -144430314878693839
+    second: TountAttack_18
+  - first:
+      213: -1446472418596147513
+    second: TountAttack_19
+  - first:
+      213: 2730151605374604004
+    second: TountAttack_20
+  - first:
+      213: 4502677108743478414
+    second: TountAttack_21
+  - first:
+      213: 8966637139756488161
+    second: TountAttack_22
+  - first:
+      213: 1590042300699283328
+    second: TountAttack_23
+  - first:
+      213: -4423208093871901992
+    second: TountAttack_24
+  - first:
+      213: 7589667696289301721
+    second: TountAttack_25
+  - first:
+      213: 6156772012818954737
+    second: TountAttack_26
+  - first:
+      213: -4863419830845956801
+    second: TountAttack_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TountAttack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 766
+        width: 428
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c079c37ec4f3aa94e9bf1f2ab9ccc788
+      internalID: 1291193974107979249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 766
+        width: 461
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4323e651a2a495439e344b2000c3954
+      internalID: 1848273778958821995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 767
+        width: 490
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec488bed0113e164392353323d1e509e
+      internalID: -3738975939974106934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 766
+        width: 492
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2dbc5cdd8bbf49ad71b822d767c08
+      internalID: 1232944543128516904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 766
+        width: 498
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d0b33222170b4780b3bccf740e9e5
+      internalID: 397322116945797810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 479
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e9bfcc8d83b749b94c39f895fa08f
+      internalID: 4893090253989364947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 609
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107896199ea40a4c862c827735ae3aa
+      internalID: -5781332373689862904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 382
+        width: 457
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9f136f5343da4e9ffd3251713c0b0
+      internalID: 8631153018745463306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 382
+        width: 440
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c982f0777613024e89e47baf0c12a37
+      internalID: -5258731198397773535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 382
+        width: 407
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b625c234a28e4189ac32a07554f20
+      internalID: 1967013499923067730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 379
+        width: 398
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc5376bd6b2d44ca75a6b9582c4f53
+      internalID: 865800680675753006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 603
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04d5c208b7346458f06640042e29c6
+      internalID: -7694812110970329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 600
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b906d5c6ffba42a1dc0e147a52f48
+      internalID: -7552758892337421107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 590
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e481b5710c0449bc87c420ed4222a
+      internalID: -8999200116489180232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 596
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6f45774fbd8448ba6c4378ffefe84
+      internalID: 389228741917483085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 596
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d99b66b81130644be105c2ca048c39
+      internalID: -6135145201131670473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 590
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602b7e1167656543a834408cf10102c
+      internalID: -4306870603382318931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 590
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea39faee7b581418091885f24a7b12
+      internalID: -4477436461981238888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 580
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c942055f857c4ebc149a18479137e
+      internalID: -144430314878693839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 381
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ea204cfd9a1343b8d80539a9a30dd
+      internalID: -1446472418596147513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 197
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5b5d7cb7b0a149895730f8fa0b0ab
+      internalID: 2730151605374604004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 398
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064c37c417f83a4eb1662e85d10ceeb
+      internalID: 4502677108743478414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_22
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 197
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c81ab0b1498540ac202b160363aac
+      internalID: 8966637139756488161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_23
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 418
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f32ae1080155b43bb4efd43f147cae
+      internalID: 1590042300699283328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 181
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9acda8a05f6db42ab4bad1ee0052e0
+      internalID: -4423208093871901992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_25
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 178
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b71d6d7b690fa4ba3e10b14328a68f
+      internalID: 7589667696289301721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_26
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 155
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757fa6f234c0db442a4595de9677c508
+      internalID: 6156772012818954737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TountAttack_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5fc4dcadca284c976f52a096a05d6
+      internalID: -4863419830845956801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae1eaf4d23f1b1243be7d89e4a92c21e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

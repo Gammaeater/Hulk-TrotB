@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 2adc7fd22fbffdf42bbf51fb3f0a5cbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8708058058589623797
+    second: HulkAttack _0
+  - first:
+      213: 827666070423139636
+    second: HulkAttack _1
+  - first:
+      213: 1058307977135278480
+    second: HulkAttack _2
+  - first:
+      213: -2545807642945844999
+    second: HulkAttack _3
+  - first:
+      213: 1000041475515332497
+    second: HulkAttack _4
+  - first:
+      213: -3675134121837695612
+    second: HulkAttack _5
+  - first:
+      213: 8258667433857221278
+    second: HulkAttack _6
+  - first:
+      213: -3005735817725887089
+    second: HulkAttack _7
+  - first:
+      213: -524990191299624878
+    second: HulkAttack _8
+  - first:
+      213: 7006828891900471928
+    second: HulkAttack _9
+  - first:
+      213: -699561326525662765
+    second: HulkAttack _10
+  - first:
+      213: -1282767606870423867
+    second: HulkAttack _11
+  - first:
+      213: -5108320146993467235
+    second: HulkAttack _12
+  - first:
+      213: -6263298893377128583
+    second: HulkAttack _13
+  - first:
+      213: -6138246459667641755
+    second: HulkAttack _14
+  - first:
+      213: -3368475796307411823
+    second: HulkAttack _15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkAttack _0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 608
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a1de91daff8d840ba98c1c694aef2c
+      internalID: 8708058058589623797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 608
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d730144c87af443911ebf3c3e4276d
+      internalID: 827666070423139636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 608
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4c52db169ed4408e4790dd607f696
+      internalID: 1058307977135278480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 608
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3a5d48eabfd64a854e46576c40ee7
+      internalID: -2545807642945844999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 608
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044d9cc63c6b7a4daf4fb1612dd261a
+      internalID: 1000041475515332497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 408
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1ae840c14b67d419c5e94cda1fe2aa
+      internalID: -3675134121837695612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 415
+        width: 189
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142857f6b98707439b257ffde35f186
+      internalID: 8258667433857221278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 415
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a09e1301ee382418c210be86812dab
+      internalID: -3005735817725887089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 415
+        width: 199
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16cf2a2bb98024082e8e8339468f1a
+      internalID: -524990191299624878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 415
+        width: 201
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f2cfd7dc1a494bb833daad7057910
+      internalID: 7006828891900471928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 215
+        width: 205
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce12ce74d191b524e9a3876889c338fd
+      internalID: -699561326525662765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 215
+        width: 201
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7edf889d327f429c7480b939ce5b5
+      internalID: -1282767606870423867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 215
+        width: 199
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceccc320c3a482d4f9bb50ff7a556597
+      internalID: -5108320146993467235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 208
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df889e6a0512a724cada29e075b1bc6d
+      internalID: -6263298893377128583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _14
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 208
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e872d0af8948a54cbcd832c1cbf5af1
+      internalID: -6138246459667641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkAttack _15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1d4112158ded43a032ce96b9d25e8
+      internalID: -3368475796307411823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff29a3e6c9da17c4680cd8e36e33d3a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

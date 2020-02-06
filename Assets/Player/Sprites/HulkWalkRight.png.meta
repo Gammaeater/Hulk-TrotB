@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: ab485b5f82d77e04abc2a73779254b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 194152802083448778
+    second: HulkWalkRight_0
+  - first:
+      213: -2857270027330672493
+    second: HulkWalkRight_1
+  - first:
+      213: 1980637810800357777
+    second: HulkWalkRight_2
+  - first:
+      213: -2916326010249716549
+    second: HulkWalkRight_3
+  - first:
+      213: -234934545556528571
+    second: HulkWalkRight_4
+  - first:
+      213: -9057364195339564193
+    second: HulkWalkRight_5
+  - first:
+      213: 8409188824110204752
+    second: HulkWalkRight_6
+  - first:
+      213: 2541627424109728640
+    second: HulkWalkRight_7
+  - first:
+      213: 9207757461737788866
+    second: HulkWalkRight_8
+  - first:
+      213: -7632957981739713123
+    second: HulkWalkRight_9
+  - first:
+      213: 4825464865879699580
+    second: HulkWalkRight_10
+  - first:
+      213: -6698027558714583754
+    second: HulkWalkRight_11
+  - first:
+      213: -6828627865592386372
+    second: HulkWalkRight_12
+  - first:
+      213: 6337097304134266418
+    second: HulkWalkRight_13
+  - first:
+      213: 7874407563859555642
+    second: HulkWalkRight_14
+  - first:
+      213: -804098720891154799
+    second: HulkWalkRight_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkWalkRight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 492
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d5b34aeae4124b93646b0919a7c01
+      internalID: 194152802083448778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 495
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4579c2bbd0e0246a1600dcb44a0690
+      internalID: -2857270027330672493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 492
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb25f46e2692e84fb420dae689e751b
+      internalID: 1980637810800357777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 488
+        width: 150
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00bfa2f6c646d44fa966b79bd31cf45
+      internalID: -2916326010249716549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 488
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7815326fbd23224db99c734a68aa146
+      internalID: -234934545556528571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f90365670eec648a8504dc5b142b99
+      internalID: -9057364195339564193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 119
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a52b381ceb43645b4d997744d417ea
+      internalID: 8409188824110204752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 328
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3ffa4bc200b445a075a08e2a7703c
+      internalID: 2541627424109728640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 328
+        width: 98
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646e384ef2c4274c98f6627a5eb210e
+      internalID: 9207757461737788866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 328
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37dfc5a0a8b08d4685112fbb1a7ba63
+      internalID: -7632957981739713123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 168
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46f3067f64dd3e40bbf0bd1de24b53f
+      internalID: 4825464865879699580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76599fc2feb5e8d4fac7697ef66cd2db
+      internalID: -6698027558714583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 168
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624afd7067482d4fa8751b13d01b032
+      internalID: -6828627865592386372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83edde3d9e83a9b4d95b2163d8dc67bf
+      internalID: 6337097304134266418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_14
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 174
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364d3cfb6ed7324f8cb6fc3d22bb773
+      internalID: 7874407563859555642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkWalkRight_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a343d16b842543ba481ebc984f6fa
+      internalID: -804098720891154799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab47407d5e4c3d14aa0d13b62ce82e6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 959df8dfbb4b04b478202103871ff947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4921537634549118805
+    second: HulkJumpRight_0
+  - first:
+      213: -6412149616620313784
+    second: HulkJumpRight_1
+  - first:
+      213: 2141603239750133814
+    second: HulkJumpRight_2
+  - first:
+      213: 1318191660772596059
+    second: HulkJumpRight_3
+  - first:
+      213: 7200027145696582872
+    second: HulkJumpRight_4
+  - first:
+      213: 6732843481927780103
+    second: HulkJumpRight_5
+  - first:
+      213: -332725075208043028
+    second: HulkJumpRight_6
+  - first:
+      213: -4646951524493379258
+    second: HulkJumpRight_7
+  - first:
+      213: -3312872288765871131
+    second: HulkJumpRight_8
+  - first:
+      213: -1714118706170442934
+    second: HulkJumpRight_9
+  - first:
+      213: 7213330965208093660
+    second: HulkJumpRight_10
+  - first:
+      213: 1477114857905884475
+    second: HulkJumpRight_11
+  - first:
+      213: -479631447189880668
+    second: HulkJumpRight_12
+  - first:
+      213: -294378764321614341
+    second: HulkJumpRight_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkJumpRight_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 611
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32d845eabb0e84290fa9079d33defd
+      internalID: -4921537634549118805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 611
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2413d72a9bef49be164e9c522c0d6
+      internalID: -6412149616620313784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 611
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d00a2c0bc692b4b8d38daf1b60536d
+      internalID: 2141603239750133814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 611
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa891ef4224244cb83a3bdffe20548
+      internalID: 1318191660772596059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 611
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44beba5694ac5ca4db9eb990f619bf1e
+      internalID: 7200027145696582872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 330
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c495c5f39206474e8173e37c987ad78
+      internalID: 6732843481927780103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 378
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52090810c51def848a0dfb21b8cb74dc
+      internalID: -332725075208043028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 381
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633565867b557ad48b095127c50c54e3
+      internalID: -4646951524493379258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 379
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c7395845574d44b9cdbbbedaa80bd
+      internalID: -3312872288765871131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 349
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816c12eb1f2a2f4cbc87aa9fe55b1e3
+      internalID: -1714118706170442934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 11
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95cb47183de95459b43fce15ba0cc6
+      internalID: 7213330965208093660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6256099b622847a070a2a23a456a6
+      internalID: 1477114857905884475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 8
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eca2087e94e6b44a08aa114d0981e2
+      internalID: -479631447189880668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkJumpRight_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 11
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad698df8c03b5064fb7fb08ebb17291b
+      internalID: -294378764321614341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 230421c9f7460154483fe22a667b7115
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
