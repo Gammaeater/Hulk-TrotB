@@ -29,7 +29,7 @@ public class PlayerAttack : MonoBehaviour
             attack = true;
             
             anim.SetTrigger("attack1");
-
+            
 
         }
         else if ((Input.GetKey("[2]")))
@@ -61,11 +61,12 @@ public class PlayerAttack : MonoBehaviour
             if ((attack))
             {
                 //camAnim.setTrigger("shake");
-                //playeranim.SetTrigger("attack");
+                anim.SetTrigger("attack");
                 Collider2D[] enemisToDamage = Physics2D.OverlapCircleAll(attacPos.position, attacRange, whatISEnemies);
                 for (int i = 0; i < enemisToDamage.Length; i++)
                 {
-                    //  enemisToDamage[i].GetComponent<Enemy>().TakeDamache(damage);
+                     enemisToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
+                    
 
                 }
             }
