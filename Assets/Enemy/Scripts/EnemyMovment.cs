@@ -26,6 +26,14 @@ public class EnemyMovment : MonoBehaviour
     public Collider2D _player;
     public Vector2 angle;
     public Vector3 targett;
+    private float dazedTime;
+    public float startDazedTime;
+    public Rigidbody2D rb;
+    public Vector2 direction;
+
+
+
+
 
 
 
@@ -33,22 +41,31 @@ public class EnemyMovment : MonoBehaviour
 
     void Awake()
     {
-
+        direction = Vector2.right;
 
         spriteRenderer = GetComponent<SpriteRenderer>();
-
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+        //if (dazedTime <= 0)
+        //{
+        //    speed = 5;
 
+        //}
+        //else
+        //{
+        //    speed = 0;
+        //    dazedTime -= Time.deltaTime;
+        //}
 
 
         if (!busy)
         {
 
-            transform.Translate(Vector2.right * speed * Time.deltaTime);
+            rb.MovePosition((Vector2)transform.position + (direction * speed * Time.deltaTime));
 
             float horizontalMove = transform.position.x;
             anim.SetFloat("speed", Mathf.Abs(horizontalMove));
@@ -61,7 +78,7 @@ public class EnemyMovment : MonoBehaviour
             {
                 if (movingRight == true)
                 {
-                    // transform.Translate(transform.forward * speed * Time.deltaTime);
+                    direction = Vector2.left;
                     transform.eulerAngles = new Vector3(0, -180, 0);
                     //spriteRenderer.flipX = playerCharacter.transform.position.x < transform.position.x;
                     movingRight = false;
@@ -72,6 +89,7 @@ public class EnemyMovment : MonoBehaviour
                     transform.eulerAngles = new Vector3(0, 0, 0);
 
                     movingRight = true;
+                    direction = Vector2.right;
                 }
 
             }
@@ -79,42 +97,20 @@ public class EnemyMovment : MonoBehaviour
 
 
 
-            //int playerLayer_mask = LayerMask.GetMask("Player");
-            //RaycastHit2D objectInfo = Physics2D.Raycast(objectDetection.position, Vector2.right, playerLayer_mask);
-            //if (objectInfo.collider == _player)
-            //{
-            //    busy = true;
-            //    //spriteRenderer.flipX = playerCharacter.transform.position.x < transform.position.x;
-            //    // anim.SetFloat("speed", 0);
-            //    Debug.Log("Player is Here");
-
-
-            //}
-            //else if (objectInfo.collider != _player)
-            //{
-            //    // Debug.Log("I see no player");
-            //    busy = false;
-            //}
 
 
         }
-        //else
-        //{
-        //    anim.SetFloat("speed", 0);
-        //    if (transform.position.x > _target.transform.position.x)
-        //    {
-        //        spriteRenderer.flipX = playerCharacter.transform.position.x < transform.position.x;
-        //    }
-        //    else if(transform.position.x < _target.transform.position.x)
-        //    {
 
-        //    }
-        //}
 
 
     }
+    public void KnockBack()
+    {
+
+        rb.AddForce(new Vector2(rb.position.x + 10, rb.position.y));
 
 
+    }
     void OnTriggerStay2D(Collider2D _player)
     {
 
@@ -123,15 +119,7 @@ public class EnemyMovment : MonoBehaviour
             busy = true;
             if (transform.position.x > _target.transform.position.x)
             {
-                //// transform.rotation =
-                //Vector3 norTar = (targett - transform.position).normalized;
-                //float angle = Mathf.Atan2(norTar.y, norTar.x) * Mathf.Rad2Deg;
-                //// rotate to angle
-                //Quaternion rotation = new Quaternion
-                //{
-                //    eulerAngles = new Vector3(0, 0, angle - 180)
-                //};
-                //transform.rotation = rotation;
+
 
 
             }
@@ -145,7 +133,7 @@ public class EnemyMovment : MonoBehaviour
 
             busy = true;
             anim.SetFloat("speed", 0);
-            //// get the angle
+
 
 
 
