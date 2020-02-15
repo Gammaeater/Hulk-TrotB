@@ -29,10 +29,10 @@ public class PlayerController : MonoBehaviour
 
         onTheGround = Physics2D.OverlapCircle(groundTester.position, radius, layersToTest);
         float horizontalMove = Input.GetAxis("Horizontal");
-   
-        
-            rgBody.velocity = new Vector2(horizontalMove * heroSpeed, rgBody.velocity.y);
-       
+
+
+        rgBody.velocity = new Vector2(horizontalMove * heroSpeed, rgBody.velocity.y);
+
 
         if (Input.GetKeyDown(KeyCode.Space) && onTheGround)
         {
@@ -63,6 +63,19 @@ public class PlayerController : MonoBehaviour
         Vector3 hereoScale = gameObject.transform.localScale;
         hereoScale.x *= -1;
         gameObject.transform.localScale = hereoScale;
+
+    }
+    void OnTriggerEnter2D(Collider2D col)
+    {
+
+        switch (col.tag)
+        {
+            case ("BulletPoison"):
+                anim.SetTrigger("isAttacked");
+                Destroy(col.gameObject);
+                break;
+
+        }
 
     }
 }

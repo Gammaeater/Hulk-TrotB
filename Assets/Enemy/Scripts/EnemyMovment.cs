@@ -136,7 +136,7 @@ public class EnemyMovment : MonoBehaviour
 
 
 
-
+            
 
 
 
@@ -147,6 +147,7 @@ public class EnemyMovment : MonoBehaviour
 
 
         busy = false;
+        gameObject.GetComponent<EnemyShot>().isAttacked = false;
 
     }
 }
