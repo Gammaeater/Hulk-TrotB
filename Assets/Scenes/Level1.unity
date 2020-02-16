@@ -6500,6 +6500,7 @@ MonoBehaviour:
   speed: 10
   bloodEffect: {fileID: 4212671200390679817, guid: 29a977e16013d374f99a74dd647f1e7b,
     type: 3}
+  enemy: {fileID: 73438659}
 --- !u!114 &1588631005
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6942,6 +6943,11 @@ PrefabInstance:
       propertyPath: jumpForce
       value: 700
       objectReference: {fileID: 0}
+    - target: {fileID: 4757762582928923399, guid: b0f25b29a75a7f842aebe99e190b3584,
+        type: 3}
+      propertyPath: enemy
+      value: 
+      objectReference: {fileID: 1588630998}
     - target: {fileID: 4757762582928923405, guid: b0f25b29a75a7f842aebe99e190b3584,
         type: 3}
       propertyPath: m_Name

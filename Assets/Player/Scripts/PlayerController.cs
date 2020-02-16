@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     public Animator anim;
     public Rigidbody2D rgBody;
     public Transform startPoint;
+    public GameObject enemy;
 
 
     // Start is called before the first frame update
@@ -71,7 +72,15 @@ public class PlayerController : MonoBehaviour
         switch (col.tag)
         {
             case ("BulletPoison"):
+                //heroSpeed = 0;
                 anim.SetTrigger("isAttacked");
+                // how much the character should be knocked back
+                var magnitude = 2000;
+                // calculate force vector
+                var force = transform.position - enemy.transform.position;
+                // normalize force vector to get direction only and trim magnitude
+                force.Normalize();
+                gameObject.GetComponent<Rigidbody2D>().AddForce(force * magnitude);
                 Destroy(col.gameObject);
                 break;
 
