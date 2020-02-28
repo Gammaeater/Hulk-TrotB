@@ -30,7 +30,8 @@ public class EnemyMovment : MonoBehaviour
     public float startDazedTime;
     public Rigidbody2D rb;
     public Vector2 direction;
-
+    private bool isWall;
+    private float radius = 0.1f;
 
 
 
@@ -76,8 +77,10 @@ public class EnemyMovment : MonoBehaviour
             RaycastHit2D groundInfo = Physics2D.Raycast(groundDetection.position, Vector2.down, layer_mask);
             if (groundInfo.collider == false)
             {
+               
                 if (movingRight == true)
                 {
+                    
                     direction = Vector2.left;
                     transform.eulerAngles = new Vector3(0, -180, 0);
                     //spriteRenderer.flipX = playerCharacter.transform.position.x < transform.position.x;
@@ -92,6 +95,29 @@ public class EnemyMovment : MonoBehaviour
                     direction = Vector2.right;
                 }
 
+            }
+            RaycastHit2D groundInfoWall = Physics2D.Raycast(objectDetection.position, Vector2.right, layer_mask);
+            if (groundInfoWall.collider == true)
+            {
+
+
+                if (movingRight == true)
+                {
+
+                    direction = Vector2.left;
+                    transform.eulerAngles = new Vector3(0, -180, 0);
+                    //spriteRenderer.flipX = playerCharacter.transform.position.x < transform.position.x;
+                    movingRight = false;
+                }
+                else
+                {
+
+                    transform.eulerAngles = new Vector3(0, 0, 0);
+
+                    movingRight = true;
+                    direction = Vector2.right;
+                }
+                //transform.eulerAngles = new Vector3(0, -180, 0);
             }
 
 
@@ -136,7 +162,7 @@ public class EnemyMovment : MonoBehaviour
 
 
 
-            
+
 
 
 

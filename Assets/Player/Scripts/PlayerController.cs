@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     public float jumpForce;
     private float radius = 0.1f;
     private bool onTheGround;
+
     private bool directiontoRight = true;
     public Transform groundTester;
     public LayerMask layersToTest;
@@ -17,7 +18,7 @@ public class PlayerController : MonoBehaviour
 
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         anim = GetComponent<Animator>();
         rgBody = GetComponent<Rigidbody2D>();
@@ -30,7 +31,7 @@ public class PlayerController : MonoBehaviour
 
         onTheGround = Physics2D.OverlapCircle(groundTester.position, radius, layersToTest);
         float horizontalMove = Input.GetAxis("Horizontal");
-
+       
 
         rgBody.velocity = new Vector2(horizontalMove * heroSpeed, rgBody.velocity.y);
 

@@ -83,11 +83,6 @@ public class EnemyShot : MonoBehaviour
         //angle = Mathf.Atan2(targetPos.y, targetPos.x) * Mathf.Rad2Deg;
         //rbbullet2.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle + offset));
 
-        if (gameObject.name == "PoisonSpit(Clone)");
-        {
-            // Destroy(gameObject., 1f);
-            Debug.Log("How u Doin ?");
-        }
 
     }
     void OnDrawGizmosSelected()

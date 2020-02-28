@@ -29,7 +29,7 @@ public class PlayerAttack : MonoBehaviour
 
         Attack();
         Defense();
-        Shout();
+      
 
 
 
@@ -63,7 +63,7 @@ public class PlayerAttack : MonoBehaviour
             {
                 attack = true;
                 enemy.GetComponent<Enemy>().TakeDamage(2);
-                
+
 
                 anim.SetTrigger("attack2");
             }
@@ -103,15 +103,7 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
-    public void Shout()
-    {
-        if ((Input.GetKey("[4]")))
-        {
-            attack = true;
 
-            anim.SetTrigger("raw");
-        }
-    }
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
