@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
 
     public List<ToxicBarrel> toxicBarrels;
     SceneFader sceneFader;
-
+    public GameObject uAreDead;
     public float dethsequenceDuration = 1.5f;
 
     int numberOfDeath;
@@ -21,22 +21,25 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        if(current != null && current != this)
+        
+        if (current != null && current != this)
         {
             Destroy(gameObject);
             return;
         }
         current = this;
-
+        uAreDead = GameObject.FindWithTag("uareDeadUI");
+        //uAreDead.SetActive(false);
         toxicBarrels = new List<ToxicBarrel>();
 
+        
         DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(toxicBarrels);
+        
         if (isGameOver)
             return;
 
@@ -53,10 +56,10 @@ public class GameManager : MonoBehaviour
     }
     public static void PlayerDied()
     {
-
+       
         if (current == null)
             return;
-
+        //uAreDead.SetActive(true);
 
         current.numberOfDeath++;
         //UIManager.UpdateDeathUI(current.numberOfDeath);
@@ -94,7 +97,7 @@ public class GameManager : MonoBehaviour
         current.toxicBarrels.Remove(toxicBarrel);
 
 
-       // if (current.toxicBarrels.Count == 0)
+       // if (current.toxicBarrels.Count == 0) 
            // current.lockedDoor.Open();
 
     }
@@ -108,9 +111,13 @@ public class GameManager : MonoBehaviour
         current.sceneFader = fader;
     }
 
-    void RestartScene()
+    public void RestartScene()
     {
         toxicBarrels.Clear();
+        //uAreDead.SetActive(true);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        //uAreDead.SetActive(false);
+
+
     }
 }
